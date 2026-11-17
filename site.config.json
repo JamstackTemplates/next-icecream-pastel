@@ -1,0 +1,10 @@
+{
+  "name": "Cloudpetal Creamery",
+  "description": "Small scoops and soft afternoons. View our flavour counter, scoop prices, seasonal rotation, opening hours and party enquiries.",
+  "domain": "next-icecream-pastel.jamstacks.net",
+  "timeZone": "America/New_York",
+  "jamstacks": {
+    "siteId": "",
+    "cdnUrl": "https://cdn.jamstacks.net"
+  }
+}

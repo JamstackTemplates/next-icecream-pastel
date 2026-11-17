@@ -1,0 +1,22 @@
+{
+  "templateId": "next-icecream-pastel",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "fullPage": false,
+  "captures": [
+    {
+      "mode": "light",
+      "sha256": "4c1364b916c4534e4407415cb441eab84b2b8b0c750729c9f3503f1261ff6d66",
+      "file": "jamstacks/home-light.jpg",
+      "bytes": 123070
+    },
+    {
+      "mode": "dark",
+      "sha256": "dd671dd036b973e15ee1a4a084747107ef5dfc60f5f6a5ff4834d1202ca94f3a",
+      "file": "jamstacks/home-dark.jpg",
+      "bytes": 125341
+    }
+  ]
+}

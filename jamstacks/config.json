@@ -1,0 +1,19 @@
+{
+  "name": "Pastel ice cream shop",
+  "description": "A playful pastel scoop-shop template with an editable flavour counter, dairy-free ingredient markers, a seasonal flavour calendar, opening hours and directions, plus a Jamstacks contact component for party and catering enquiries.",
+  "tech": "next",
+  "type": "icecream",
+  "style": "pastel",
+  "internal": false,
+  "components": [
+    "support-form"
+  ],
+  "configFile": "site.config.json",
+  "screenshots": {
+    "light": "jamstacks/home-light.jpg",
+    "dark": "jamstacks/home-dark.jpg",
+    "theme": {
+      "strategy": "media"
+    }
+  }
+}
